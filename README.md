@@ -1,3 +1,5 @@
+Find complete thesis [here](https://github.com/patriciamdr/ba-code/blob/main/thesis_text/main.pdf).
+___
 # Playground
 
 > First time? check out our [website](https://www.pommerman.com) for more information,
